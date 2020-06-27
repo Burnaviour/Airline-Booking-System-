@@ -27,7 +27,7 @@ class Person:
 
 
 
-class Pilot(Person): #PILOT AND STAFF COMPOSING IN Flight class
+class Pilot(Person): # PILOT AND STAFF COMPOSING IN Flight class
     def __init__(self,lst):
         super().__init__(lst)
 
